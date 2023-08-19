@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Enviroment>
+    <!-- Timeout -->
+    <Timeout>5</Timeout>
+    <!-- Web -->
+    <PlatformName>web</PlatformName>
+    <BrowserName>chrome</BrowserName>
+    <Url>https://demo.nopcommerce.com/</Url>
+    <!-- This sikuli images need absolut path not relative -->
+    <ImageRepo>C:\\Automation\\TestAutomationDigital\\OurFinalProject2023New\\ImageRepository\\</ImageRepo>
+    <!--Data Driven Testing-->
+    <DDTFile>./DDTFiles/SearchKeyword.csv</DDTFile>
+
+    <!-- stating test -->
+
+    <!-- Test 01-->
+    <FirstName>Josef</FirstName>
+    <LastName>Cohen</LastName>
+    <Email>ofrafor@gmail.com</Email>
+    <Password>admin4321</Password>
+    <ValidateAccount>My account</ValidateAccount>
+
+    <!-- Test 02-->
+    <ExpectedEmptyCartText>Your Shopping Cart is empty!</ExpectedEmptyCartText>
+
+
+    <!-- Test 03-->
+    <ExpectedItemsInCart>3</ExpectedItemsInCart>
+
+    <!-- Test 05-->
+    <SelectCurrnecy>Euro</SelectCurrnecy>
+    <ExpectedCurrency>€</ExpectedCurrency>
+
+    <!-- Test 06-->
+    <HomePageIconName>HomePageIcon</HomePageIconName>
+
+
+
+</Enviroment>
