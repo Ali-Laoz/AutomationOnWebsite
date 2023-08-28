@@ -3,7 +3,7 @@ AutomationOnWebsite<br>
 
 The tested website is this:https://demo.nopcommerce.com/<br>
 
--This project has 7 test cases-
+-This project has 7 test cases-<br>
 Test01 - Verify Registration<br>
 Test02 - Verify Shopping Cart Empty<br>
 Test03 - Put And Verify Shopping Cart Items Count<br>
