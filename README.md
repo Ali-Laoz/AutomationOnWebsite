@@ -6,7 +6,7 @@ The tested website is this:https://demo.nopcommerce.com/<br>
 -This project has 7 test cases-<br>
 Test01 - Verify registration<br>
 Test02 - Verify shopping cart empty<br>
-Test03 - Put and verify shopping cart items count<br>
+Test03 - Verify shopping cart items count<br>
 Test04 - Verify last item delete in cart<br>
 Test05 - Verify currency changed<br>
 Test06 - Verify home page icon<br>
