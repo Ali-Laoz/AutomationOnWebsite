@@ -4,12 +4,12 @@ AutomationOnWebsite<br>
 The tested website is this:https://demo.nopcommerce.com/<br>
 
 -This project has 7 test cases-<br>
-Test01 - Verify Registration<br>
-Test02 - Verify Shopping Cart Empty<br>
-Test03 - Put And Verify Shopping Cart Items Count<br>
-Test04 - Verify Last Item Delete In Cart<br>
-Test05 - Verify Currency Changed<br>
-Test06 - Verify Home Page Icon<br>
+Test01 - Verify registration<br>
+Test02 - Verify shopping cart empty<br>
+Test03 - Put and verify shopping cart items count<br>
+Test04 - Verify last item delete in cart<br>
+Test05 - Verify currency changed<br>
+Test06 - Verify home page icon<br>
 Test07 - Verify search bar is working properly<br>
 
 Used framework:<br>
